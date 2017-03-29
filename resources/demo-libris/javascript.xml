@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><xsearch xmlns:marc="http://www.loc.gov/MARC21/slim" to="1" from="1" records="1">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd">
+<mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd" version="3.0">
+<titleInfo>
+<title>Eloquent JavaScript</title>
+<subTitle>a modern introduction to programming</subTitle>
+</titleInfo>
+<name type="personal">
+<namePart>Haverbeke, Marijn</namePart>
+<role>
+<roleTerm type="text" authority="marcrelator">creator</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<originInfo>
+<place>
+<placeTerm type="code" authority="marccountry">xxu</placeTerm>
+</place>
+<place>
+<placeTerm type="text">San Francisco</placeTerm>
+</place>
+<publisher>No Starch Press</publisher>
+<dateIssued>2015</dateIssued>
+<edition>2 ed.</edition>
+<issuance>monographic</issuance>
+</originInfo>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+<extent>xx, 451 s. ; 24 cm</extent>
+</physicalDescription>
+<note type="statement of responsibility">by Marijn Haverbeke</note>
+<identifier type="isbn">9781593275846</identifier>
+<location>
+<physicalLocation>BOKR</physicalLocation>
+</location>
+<location>
+<physicalLocation>Bthg</physicalLocation>
+</location>
+<location>
+<physicalLocation>Q</physicalLocation>
+</location>
+<recordInfo>
+<recordContentSource authority="marcorg">BOKR</recordContentSource>
+<recordCreationDate encoding="marc">140625</recordCreationDate>
+<recordIdentifier>16616002</recordIdentifier>
+</recordInfo>
+</mods>
+</modsCollection>
+</xsearch>

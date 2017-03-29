@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><xsearch xmlns:marc="http://www.loc.gov/MARC21/slim" to="1" from="1" records="1">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd">
+<mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd" version="3.0">
+<titleInfo>
+<title>JavaScript</title>
+<subTitle>the good parts</subTitle>
+</titleInfo>
+<name type="personal">
+<namePart>Crockford, Douglas</namePart>
+<role>
+<roleTerm type="text" authority="marcrelator">creator</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<originInfo>
+<place>
+<placeTerm type="code" authority="marccountry">cc</placeTerm>
+</place>
+<place>
+<placeTerm type="text">Beijing</placeTerm>
+</place>
+<place>
+<placeTerm type="text">Cambridge</placeTerm>
+</place>
+<publisher>O'Reilly</publisher>
+<dateIssued>2008</dateIssued>
+<edition>1st ed.</edition>
+<issuance>monographic</issuance>
+</originInfo>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+<extent>xiii, 153 p. : ill. ; 24 cm</extent>
+</physicalDescription>
+<note type="statement of responsibility">Douglas Crockford</note>
+<relatedItem type="otherFormat" displayLabel="Online:">
+<titleInfo>
+<title>JavaScript: The Good Parts</title>
+</titleInfo>
+<identifier type="local">11748948</identifier>
+</relatedItem>
+<identifier type="isbn">978-0-596-51774-8</identifier>
+<identifier type="isbn">0-596-51774-2</identifier>
+<location>
+<physicalLocation>BOKR</physicalLocation>
+</location>
+<location>
+<physicalLocation>Gbg</physicalLocation>
+</location>
+<location>
+<physicalLocation>Hig</physicalLocation>
+</location>
+<location>
+<physicalLocation>LnuK</physicalLocation>
+</location>
+<location>
+<physicalLocation>Lte</physicalLocation>
+</location>
+<location>
+<physicalLocation>Q</physicalLocation>
+</location>
+<location>
+<physicalLocation>Uang</physicalLocation>
+</location>
+<location>
+<physicalLocation>Z</physicalLocation>
+</location>
+<location>
+<physicalLocation>Zl</physicalLocation>
+</location>
+<recordInfo>
+<recordContentSource authority="marcorg">UKM</recordContentSource>
+<recordCreationDate encoding="marc">080903</recordCreationDate>
+<recordIdentifier>10964976</recordIdentifier>
+</recordInfo>
+</mods>
+</modsCollection>
+</xsearch>

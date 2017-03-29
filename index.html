@@ -1,0 +1,79 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+
+    <!-- mobile webapp stuff -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, shrink-to-fit=no">
+
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="application-name" content="Boksök">
+    <meta name="apple-mobile-web-app-title" content="Boksök">
+
+    <!-- manifest for opera and chrome webview on android -->
+    <link rel="manifest" href="./manifest.json">
+
+    <!-- fallback icon for chrome -->
+    <link rel="icon" sizes="192x192" href="img/app-icon-4.png">
+
+    <!-- ios webview searches for icon in webapp root "apple-touch-icon.png" -->
+
+    <title>Boksök</title>
+
+    <!-- Style stuff -->
+
+    <!-- Material Design fonts -->
+    <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Roboto:300,400,500,700">
+    <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/icon?family=Material+Icons">
+
+    <!-- Bootstrap -->
+    <link rel="stylesheet" type="text/css" href="../../lib/bootstrap/bootstrap3-3-6.min.css">
+
+    <!-- Bootstrap Material Design -->
+    <link rel="stylesheet" type="text/css" href="../../lib/materialdesign/bootstrap-material-design.css">
+    <link rel="stylesheet" type="text/css" href="../../lib/materialdesign/ripples.min.css">
+
+    <!-- Mithril modal  -->
+    <link rel="stylesheet" type="text/css" href="../../lib/modal/mithril_modal.css">
+
+    <!-- My own css -->
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+
+</head>
+<body>
+    <!-- Anchor div for the app -->
+    <main id="app"></main>
+
+    <!-- Scripts -->
+
+    <!-- libs -->
+    <script src = "https://maps.googleapis.com/maps/api/js?language=sv"></script>
+    <script src="../../lib/quagga/dist/quagga.js"></script>
+    <script src="../../lib/mithril.js"></script>
+    <script src="../../lib/MSXTransformer.js"></script>
+
+    <!-- Mithril modal  -->
+    <script src="../../lib/modal/mithril_modal.js"></script>
+
+    <!-- App scripts -->
+
+    <!-- model implementation -->
+    <script src="js/librisSearch.js"></script>
+    <script src="js/biblSearch.js"></script>
+    <script src="js/appState.js"></script>
+
+    <!-- helpers -->
+    <script src="js/helpers.js"></script>
+
+    <!-- components -->
+    <script type="text/msx" src="js/c_map.jsx"></script>
+    <script type="text/msx" src="js/c_bookResult.jsx"></script>
+    <script type="text/msx" src="js/c_libResult.jsx"></script>
+    <script type="text/msx" src="js/c_search.jsx"></script>
+
+    <!-- app (view and controllers) -->
+    <script type="text/msx" src="js/app.jsx"></script>
+
+</body>
+</html>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><xsearch xmlns:marc="http://www.loc.gov/MARC21/slim" to="2" from="1" records="2">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd">
+<mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd" version="3.0">
+<titleInfo>
+<title>JavaScript</title>
+<subTitle>the definitive guide</subTitle>
+</titleInfo>
+<name type="personal">
+<namePart>Flanagan, David</namePart>
+<role>
+<roleTerm type="text" authority="marcrelator">creator</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<originInfo>
+<place>
+<placeTerm type="code" authority="marccountry">cc</placeTerm>
+</place>
+<place>
+<placeTerm type="text">Beijing</placeTerm>
+</place>
+<place>
+<placeTerm type="text">Farnham</placeTerm>
+</place>
+<publisher>O'Reilly</publisher>
+<dateIssued>2011</dateIssued>
+<edition>6. ed.</edition>
+<issuance>monographic</issuance>
+</originInfo>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+<extent>xvi, 1078 s. : ill. ; 24 cm.</extent>
+</physicalDescription>
+<note type="statement of responsibility">David Flanagan</note>
+<identifier type="isbn">9780596805524 (pbk.) :</identifier>
+<identifier type="isbn">0596805527 (pbk.)</identifier>
+<location>
+<physicalLocation>La</physicalLocation>
+</location>
+<location>
+<physicalLocation>Li</physicalLocation>
+</location>
+<location>
+<physicalLocation>LnuK</physicalLocation>
+</location>
+<location>
+<physicalLocation>LnuV</physicalLocation>
+</location>
+<location>
+<physicalLocation>Lte</physicalLocation>
+</location>
+<location>
+<physicalLocation>Mho</physicalLocation>
+</location>
+<location>
+<physicalLocation>Q</physicalLocation>
+</location>
+<location>
+<physicalLocation>Skov</physicalLocation>
+</location>
+<location>
+<physicalLocation>Te</physicalLocation>
+</location>
+<location>
+<physicalLocation>Uang</physicalLocation>
+</location>
+<location>
+<physicalLocation>Z</physicalLocation>
+</location>
+<recordInfo>
+<recordContentSource authority="marcorg">UKM</recordContentSource>
+<recordCreationDate encoding="marc">110506</recordCreationDate>
+<recordIdentifier>12163102</recordIdentifier>
+</recordInfo>
+</mods>
+<mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd" version="3.0">
+<titleInfo>
+<title>JavaScript pocket reference</title>
+</titleInfo>
+<name type="personal">
+<namePart>Flanagan, David</namePart>
+<role>
+<roleTerm type="text" authority="marcrelator">creator</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="">Bok</genre>
+<originInfo>
+<place>
+<placeTerm type="code" authority="marccountry">xxu</placeTerm>
+</place>
+<place>
+<placeTerm type="text">Sebastopol, Calif</placeTerm>
+</place>
+<publisher>O'Reilly</publisher>
+<dateIssued>2002</dateIssued>
+<dateIssued encoding="marc">2011</dateIssued>
+<edition>6th ed.</edition>
+<issuance>monographic</issuance>
+</originInfo>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+<extent>127 s. ; 18 x 11 cm</extent>
+</physicalDescription>
+<targetAudience authority="marctarget">adult</targetAudience>
+<note type="statement of responsibility">David Flanagan</note>
+<identifier type="isbn">9780596805524</identifier>
+<location>
+<physicalLocation>Gbg</physicalLocation>
+</location>
+<location>
+<physicalLocation>Uang</physicalLocation>
+</location>
+<recordInfo>
+<recordContentSource authority="marcorg">Uang</recordContentSource>
+<recordCreationDate encoding="marc">101025</recordCreationDate>
+<recordIdentifier>11957822</recordIdentifier>
+</recordInfo>
+</mods>
+</modsCollection>
+</xsearch>

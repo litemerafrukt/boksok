@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?><xsearch xmlns:marc="http://www.loc.gov/MARC21/slim" to="1" from="1" records="1">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd">
+<mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd" version="3.0">
+<titleInfo>
+<title>Storebror ser dig</title>
+<subTitle>Edward Snowden och den globala övervakningsstaten</subTitle>
+</titleInfo>
+<titleInfo type="uniform">
+<title>No place to hide. Svenska</title>
+</titleInfo>
+<name type="personal">
+<namePart>Greenwald, Glenn</namePart>
+<role>
+<roleTerm type="text" authority="marcrelator">creator</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marc">biography</genre>
+<originInfo>
+<place>
+<placeTerm type="code" authority="marccountry">sw</placeTerm>
+</place>
+<place>
+<placeTerm type="text">Stockholm</placeTerm>
+</place>
+<publisher>Leopard</publisher>
+<dateIssued>2014</dateIssued>
+<issuance>monographic</issuance>
+</originInfo>
+<language>
+<languageTerm type="code" authority="iso639-2b">swe</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+<extent>312 s. : ill. ; 24 cm</extent>
+</physicalDescription>
+<note type="statement of responsibility">Glenn Greenwald ; översättning: Camilla Jacobsson och Emeli André</note>
+<identifier type="isbn">978-91-7343-528-4 (inb.)</identifier>
+<location>
+<physicalLocation>Afb</physicalLocation>
+</location>
+<location>
+<physicalLocation>Alb</physicalLocation>
+</location>
+<location>
+<physicalLocation>Arja</physicalLocation>
+</location>
+<location>
+<physicalLocation>Arlo</physicalLocation>
+</location>
+<location>
+<physicalLocation>Arvk</physicalLocation>
+</location>
+<location>
+<physicalLocation>Atvi</physicalLocation>
+</location>
+<location>
+<physicalLocation>BOKR</physicalLocation>
+</location>
+<location>
+<physicalLocation>Dh</physicalLocation>
+</location>
+<location>
+<physicalLocation>E</physicalLocation>
+</location>
+<location>
+<physicalLocation>Fili</physicalLocation>
+</location>
+<location>
+<physicalLocation>Gbg</physicalLocation>
+</location>
+<location>
+<physicalLocation>Gk</physicalLocation>
+</location>
+<location>
+<physicalLocation>Grum</physicalLocation>
+</location>
+<location>
+<physicalLocation>H</physicalLocation>
+</location>
+<location>
+<physicalLocation>Hagf</physicalLocation>
+</location>
+<location>
+<physicalLocation>Hama</physicalLocation>
+</location>
+<location>
+<physicalLocation>Hasb</physicalLocation>
+</location>
+<location>
+<physicalLocation>Hena</physicalLocation>
+</location>
+<location>
+<physicalLocation>Hig</physicalLocation>
+</location>
+<location>
+<physicalLocation>Hsd</physicalLocation>
+</location>
+<location>
+<physicalLocation>Jm</physicalLocation>
+</location>
+<location>
+<physicalLocation>Jon</physicalLocation>
+</location>
+<location>
+<physicalLocation>Kama</physicalLocation>
+</location>
+<location>
+<physicalLocation>Kils</physicalLocation>
+</location>
+<location>
+<physicalLocation>Kld1</physicalLocation>
+</location>
+<location>
+<physicalLocation>Krh</physicalLocation>
+</location>
+<location>
+<physicalLocation>Kssb</physicalLocation>
+</location>
+<location>
+<physicalLocation>L</physicalLocation>
+</location>
+<location>
+<physicalLocation>Ld</physicalLocation>
+</location>
+<location>
+<physicalLocation>Leru</physicalLocation>
+</location>
+<location>
+<physicalLocation>Li</physicalLocation>
+</location>
+<location>
+<physicalLocation>LnuK</physicalLocation>
+</location>
+<location>
+<physicalLocation>LnuV</physicalLocation>
+</location>
+<location>
+<physicalLocation>Lobj</physicalLocation>
+</location>
+<location>
+<physicalLocation>Mah</physicalLocation>
+</location>
+<location>
+<physicalLocation>Mdv</physicalLocation>
+</location>
+<location>
+<physicalLocation>Mo</physicalLocation>
+</location>
+<location>
+<physicalLocation>O</physicalLocation>
+</location>
+<location>
+<physicalLocation>Phs</physicalLocation>
+</location>
+<location>
+<physicalLocation>Q</physicalLocation>
+</location>
+<location>
+<physicalLocation>R</physicalLocation>
+</location>
+<location>
+<physicalLocation>S</physicalLocation>
+</location>
+<location>
+<physicalLocation>Sa</physicalLocation>
+</location>
+<location>
+<physicalLocation>Safb</physicalLocation>
+</location>
+<location>
+<physicalLocation>Sunn</physicalLocation>
+</location>
+<location>
+<physicalLocation>Tkb</physicalLocation>
+</location>
+<location>
+<physicalLocation>Ugot</physicalLocation>
+</location>
+<location>
+<physicalLocation>Um</physicalLocation>
+</location>
+<location>
+<physicalLocation>Umdp</physicalLocation>
+</location>
+<location>
+<physicalLocation>Vagg</physicalLocation>
+</location>
+<recordInfo>
+<recordContentSource authority="marcorg">BOKR</recordContentSource>
+<recordCreationDate encoding="marc">131105</recordCreationDate>
+<recordIdentifier>14784475</recordIdentifier>
+</recordInfo>
+</mods>
+</modsCollection>
+</xsearch>

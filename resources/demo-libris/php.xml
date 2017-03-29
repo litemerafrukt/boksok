@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?><xsearch xmlns:marc="http://www.loc.gov/MARC21/slim" to="1" from="1" records="1">
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd">
+<mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd" version="3.0">
+<titleInfo>
+<title>Webbutveckling med PHP och MySQL</title>
+</titleInfo>
+<name type="personal">
+<namePart>Faraon, Montathar</namePart>
+<namePart type="date">1983-</namePart>
+<role>
+<roleTerm type="text" authority="marcrelator">creator</roleTerm>
+</role>
+</name>
+<typeOfResource>text</typeOfResource>
+<originInfo>
+<place>
+<placeTerm type="code" authority="marccountry">sw</placeTerm>
+</place>
+<place>
+<placeTerm type="text">Lund</placeTerm>
+</place>
+<publisher>Studentlitteratur</publisher>
+<dateIssued>2012</dateIssued>
+<edition>1. uppl.</edition>
+<issuance>monographic</issuance>
+</originInfo>
+<language>
+<languageTerm type="code" authority="iso639-2b">swe</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+<extent>195 s. : ill. ; 23 cm</extent>
+</physicalDescription>
+<note type="statement of responsibility">Montathar Faraon</note>
+<identifier type="isbn">9789144072395</identifier>
+<location>
+<physicalLocation>BOKR</physicalLocation>
+</location>
+<location>
+<physicalLocation>Bo</physicalLocation>
+</location>
+<location>
+<physicalLocation>Bthp</physicalLocation>
+</location>
+<location>
+<physicalLocation>D</physicalLocation>
+</location>
+<location>
+<physicalLocation>Gbg</physicalLocation>
+</location>
+<location>
+<physicalLocation>Ge</physicalLocation>
+</location>
+<location>
+<physicalLocation>H</physicalLocation>
+</location>
+<location>
+<physicalLocation>Hdf</physicalLocation>
+</location>
+<location>
+<physicalLocation>Hib</physicalLocation>
+</location>
+<location>
+<physicalLocation>Hig</physicalLocation>
+</location>
+<location>
+<physicalLocation>Hsd</physicalLocation>
+</location>
+<location>
+<physicalLocation>Htut</physicalLocation>
+</location>
+<location>
+<physicalLocation>Jon</physicalLocation>
+</location>
+<location>
+<physicalLocation>Kd</physicalLocation>
+</location>
+<location>
+<physicalLocation>Krh</physicalLocation>
+</location>
+<location>
+<physicalLocation>L</physicalLocation>
+</location>
+<location>
+<physicalLocation>Lat</physicalLocation>
+</location>
+<location>
+<physicalLocation>Lehl</physicalLocation>
+</location>
+<location>
+<physicalLocation>Li</physicalLocation>
+</location>
+<location>
+<physicalLocation>LnuK</physicalLocation>
+</location>
+<location>
+<physicalLocation>LnuV</physicalLocation>
+</location>
+<location>
+<physicalLocation>Lobj</physicalLocation>
+</location>
+<location>
+<physicalLocation>Mah</physicalLocation>
+</location>
+<location>
+<physicalLocation>Mde</physicalLocation>
+</location>
+<location>
+<physicalLocation>Mho</physicalLocation>
+</location>
+<location>
+<physicalLocation>Mhs</physicalLocation>
+</location>
+<location>
+<physicalLocation>Mo</physicalLocation>
+</location>
+<location>
+<physicalLocation>O</physicalLocation>
+</location>
+<location>
+<physicalLocation>Q</physicalLocation>
+</location>
+<location>
+<physicalLocation>S</physicalLocation>
+</location>
+<location>
+<physicalLocation>Skov</physicalLocation>
+</location>
+<location>
+<physicalLocation>T</physicalLocation>
+</location>
+<location>
+<physicalLocation>Uang</physicalLocation>
+</location>
+<location>
+<physicalLocation>Ugot</physicalLocation>
+</location>
+<location>
+<physicalLocation>Um</physicalLocation>
+</location>
+<location>
+<physicalLocation>Umdp</physicalLocation>
+</location>
+<location>
+<physicalLocation>Z</physicalLocation>
+</location>
+<location>
+<physicalLocation>Zl</physicalLocation>
+</location>
+<recordInfo>
+<recordContentSource authority="marcorg">LGEN</recordContentSource>
+<recordCreationDate encoding="marc">111116</recordCreationDate>
+<recordIdentifier>12399754</recordIdentifier>
+</recordInfo>
+</mods>
+</modsCollection>
+</xsearch>

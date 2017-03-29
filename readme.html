@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="utf-8">
+
+    <title>ReadMe</title>
+
+    <!-- jQuery -->
+    <script type="text/javascript" src="../../lib/jquery/jquery-2.2.2.js"></script>
+
+    <!-- Bootstrap -->
+    <link rel="stylesheet" type="text/css" href="../../lib/bootstrap/bootstrap3-3-6.min.css">
+
+    <!-- Markdown2html -->
+    <script src="https://cdn.rawgit.com/showdownjs/showdown/1.4.1/dist/showdown.min.js"></script>
+
+    <style>
+        img {padding: 0.3em; border: 1px solid rgb(173, 173, 173); border-radius: 0.3em;}
+    </style>
+
+</head>
+<body>
+    <article id="readme" class="container">
+        <script>
+        /* global showdown */
+        $(document).ready(function () {
+            $.get('readme.md', function ( md ) {
+                var converter = new showdown.Converter();
+                var html = converter.makeHtml(md);
+                $('#readme').html(html);
+            });
+        });
+        </script>
+    </article>
+</body>
